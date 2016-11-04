@@ -12,6 +12,15 @@
 10-Jan-2016
  * Requires OpenCV with PR: https://github.com/Itseez/opencv_contrib/pull/503
 
+**AUTHORS**
+
+ Alphabetical order:
+
+ * Balint Cristian ```<cristian dot balint at gmail dot com>```
+ * Nghia Ho ```<nghiaho12 at yahoo dot com> http://nghiaho.com```
+
+**RELATED PAPERS**
+
 --------------------------------------------------------------------------------------
 
 [1] E. Tola and C. Strecha and P. Fua
@@ -22,3 +31,5 @@ Machine Vision and Applications
 "A Closed-Form Solution for the Uniform Sampling of the Epipolar Line via Non-Uniform
 Depth Sampling"
 EPFL-REPORT-150161
+
+
